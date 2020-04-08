@@ -11,4 +11,5 @@ The times of motion will the be recorded and output in a CSV file once the user 
 
 This program was done as part of my python upskilling.
 
-The program can be ran through the Python IDLE.
+The program can be ran through the Python IDLE with the following libraries installed:
+cv2, time, pandas, datetime.
