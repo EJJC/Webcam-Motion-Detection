@@ -10,3 +10,5 @@ The program used basic image processing techniques to perform the delta analysis
 The times of motion will the be recorded and output in a CSV file once the user presses the 'q' key to quit the program.
 
 This program was done as part of my python upskilling.
+
+The program can be ran through the Python IDLE.
